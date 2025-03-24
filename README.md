@@ -52,4 +52,4 @@ ___
 ## Citation
 
 Please cite this when using these scripts:
-Pecrix Y., Dvorak E., Labbé F., Besnard G., Delmotte F., Godiard L., 2025. Phylogenomics of *Plasmopara halstedii* reveals genomic regions associated with the breakdown of sunflower downy mildew resistance genes. XXX. https://doi.org/XXX
+Pecrix Y., Dvorak E., Labbé F., Besnard G., Delmotte F., Godiard L., 2025. Phylogenomics of *Plasmopara halstedii* reveals genomic regions associated with the breakdown of sunflower downy mildew resistance genes (*submitted*).
